@@ -1,6 +1,6 @@
 {
   "name": "@riuandg5/clitodo",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Command line todo list manager.",
   "main": "index.js",
   "scripts": {

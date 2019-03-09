@@ -2,7 +2,7 @@
 
 const fs = require("fs");
 
-const tododb = "./tododb";
+const tododb = "./.tododb";
 
 function init() {
 	if (fs.existsSync(tododb)) {
